@@ -1,9 +1,5 @@
 # dsa-assigment
-Data Structures and Algorithms (DSA) Assignment
 
-This repository contains C++ solutions for 20 fundamental Data Structures and Algorithms problems. Each file is a self-contained program that demonstrates a specific concept, ranging from basic recursion and arrays to trees, graphs, and sorting algorithms.
-
-Problem List
 
 The following programs are included in this collection:
 
